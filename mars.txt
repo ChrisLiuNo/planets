@@ -1,3 +1,9 @@
 The planet is very red!
 
+<<<<<<< HEAD
 three
+=======
+one
+
+No it's blue
+one 
